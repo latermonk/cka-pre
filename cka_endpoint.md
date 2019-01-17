@@ -1,12 +1,12 @@
-==
 
-endpoint
+
+# endpoint
 
 endpoint是k8s集群中的一个资源对象，存储在etcd中，用来记录一个service对应的所有pod的访问地址。
 
 service配置selector，endpoint controller才会自动创建对应的endpoint对象；否则，不会生成endpoint对象.
 
-例如，k8s集群中创建一个名为k8s-classic-1113-d3的service，就会生成一个同名的endpoint对象，如下图所示。其中ENDPOINTS就是service关联的pod的ip地址和端口。
+例如:k8s集群中创建一个名为k8s-classic-1113-d3的service，就会生成一个同名的endpoint对象，如下图所示。其中ENDPOINTS就是service关联的pod的ip地址和端口。
 
 在这里插入图片描述
 endpoint controller
