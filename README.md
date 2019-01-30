@@ -7,6 +7,9 @@ https://portal.linuxfoundation.org/portal
 
 
 
+#  kind实验环境
+
+https://github.com/latermonk/kind-for-cka
 
 
 #  rancher搭建运行环境
