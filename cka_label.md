@@ -77,7 +77,19 @@ kubectl get pods -L creation_method,env
 kubectl delete pods,services -l name=myLabel
 ```
 
+## 标签中 l vs L 大小L的区别？
 
+```
+-l 直接过滤标签为某一个的pod
+kubectl get pods -l env=development
+
+
+-L 显示有某一个标签的列，不管有没有都显示出来
+kubectl get pods -L env
+
+
+
+```
 
 #  Reference
 
