@@ -87,7 +87,7 @@ kubectl get pods -l env=development
 -L 显示有某一个标签的列，不管有没有都显示出来
 kubectl get pods -L env
 
-
+！[](https://raw.githubusercontent.com/latermonk/cka-pre/master/images/label.png)
 
 ```
 
