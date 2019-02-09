@@ -33,5 +33,5 @@ docker run -d --restart=unless-stopped -p 80:80 -p 443:443 rancher/rancher
 https://developer.ibm.com/cn/tv/2017/container-microservice/
 
 
-## k8s系列
+## Kubernetes 系列系列
 https://developer.ibm.com/cn/tv/2018/opentec-k8s/
