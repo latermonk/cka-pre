@@ -5,6 +5,19 @@ LFS258: kubernetes training
 https://portal.linuxfoundation.org/portal
 
 
+# 查看资源简写
+## 原来
+```
+kubectl describe
+
+```
+
+## 现在
+
+```
+k api-resources
+```
+
 
 
 #  kind实验环境
