@@ -1,5 +1,9 @@
 # cka-pre
 
+## resource pod template 
+https://cheatsheet.dennyzhang.com/kubernetes-yaml-templates   
+
+
 LFS258: kubernetes training
 
 https://portal.linuxfoundation.org/portal
