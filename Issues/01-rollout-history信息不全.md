@@ -62,6 +62,11 @@ https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/history.go#L112
 revision not found 
 
 ```
+如图：   
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/check-a-none-exit-revision.png
+
+
+
 
 追问：
 rollout pause ，pause掉的到底是什么？ 这个一般都用在什么场景？   
