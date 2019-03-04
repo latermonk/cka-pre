@@ -16,19 +16,18 @@
 1.
 kubectl rollout history deployment --revision=版本号  即可
 
+
 2.
+看代码应该是全部返回的，replicas为0的话也会返回：
+https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/history.go#L112，是不是只剩下这几个了
+
+3.
 因为你deployment的historylimit设置的就是3，只保留3条历史记录
 revisionHistoryLimit 是这个作用
 a.部署的时候在yaml文件里边写【如下图】 
 
 b.事后修改的话 
 kubectl patch deploy nginx -p '{"spec":{"revisionHistoryLimit":100}}'
-
-
-3.
-看代码应该是全部返回的，replicas为0的话也会返回：
-https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/history.go#L112，是不是只剩下这几个了
-
 
 ```
 
@@ -87,3 +86,13 @@ pause掉的是滚动更新和回滚这个过程
 ```
 
 
+rollout的bug 
+
+```
+deployment滚动更新时，跨位数回滚时，revision不能够更新  即当前revision11回滚到revision9，revision不会变化为12（按道理每次更新与回滚都会变化的）
+原因：源代码中revision应为number格式计算而不应该是string
+在1.7版本后进行了修复
+https://github.com/kubernetes/kubernetes/issues/49701
+https://github.com/kubernetes/kubernetes/pull/49355
+
+```
