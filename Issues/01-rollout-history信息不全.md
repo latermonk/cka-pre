@@ -24,14 +24,9 @@ b.事后修改的话
 kubectl patch deploy nginx -p '{"spec":{"revisionHistoryLimit":100}}'
 
 
-
 3.
 看代码应该是全部返回的，replicas为0的话也会返回：
 https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/history.go#L112，是不是只剩下这几个了
-
-
-4.
-开始自己探索
 
 
 ```
@@ -52,10 +47,12 @@ https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/history.go#L112
 追问：  
 如果这条记录没有了 我uodo的时候还能跳回到这个版本么？   
 
+
+```
+
 回答：
 不行，强制 --revision= x 的话，会报错： 
 
-```
 revision not found 
 
 ```
