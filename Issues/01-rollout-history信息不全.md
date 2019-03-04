@@ -31,7 +31,7 @@ https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/history.go#L112
 
 
 4.
-自己探索
+开始自己探索
 
 
 ```
@@ -40,6 +40,7 @@ https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/history.go#L112
 
 有些record不见了是因为使用了 deployment undo命令    
 
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/deployment_undo.png)
 
 
 ```
@@ -54,8 +55,10 @@ https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/history.go#L112
 回答：
 不行，强制 --revision= x 的话，会报错： 
 
-revision not found   
+```
+revision not found 
 
+```
 
 追问：
 rollout pause ，pause掉的到底是什么？ 这个一般都用在什么场景？   
