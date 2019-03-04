@@ -18,9 +18,7 @@ kubectl rollout history deployment --revision=版本号  即可
 2.
 因为你deployment的historylimit设置的就是3，只保留3条历史记录
 revisionHistoryLimit 是这个作用
-a.部署的时候在yaml文件里边写 
-
-
+a.部署的时候在yaml文件里边写【如下图】 
 
 b.事后修改的话 
 kubectl patch deploy nginx -p '{"spec":{"revisionHistoryLimit":100}}'
