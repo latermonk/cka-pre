@@ -64,7 +64,7 @@ revision not found
 
 ```
 如图：   
-![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/check-a-none-exit-revision.png
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/check-a-none-exit-revision.png)
 
 
 
