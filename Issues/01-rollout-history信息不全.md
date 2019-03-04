@@ -2,7 +2,8 @@
 ## 问题
 
 ```
-跑命令  kubectl rollout history deploy  xxx 的时候，如果版本多的话总是貌似只能看见3条历史，看不见上边几条，请问可以通过设置什么参数来显示么？   
+跑命令  kubectl rollout history deploy  xxx 的时候，如果版本多的话总是貌似只能看见3条历史，      
+看不见上边几条，请问可以通过设置什么参数来显示么？      
 
 ```
 
