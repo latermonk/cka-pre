@@ -8,7 +8,7 @@
 
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/no-history-record.png)
 
-群里有人回答说：
+## 群里讨论：
 
 
 ```
@@ -20,7 +20,7 @@ kubectl rollout history deployment --revision=版本号  即可
 revisionHistoryLimit 是这个作用
 a.部署的时候在yaml文件里边写 
 
-![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/revisionHistoryLimit_yaml.png)
+
 
 b.事后修改的话 
 kubectl patch deploy nginx -p '{"spec":{"revisionHistoryLimit":100}}'
@@ -33,7 +33,11 @@ https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/history.go#L112
 
 ```
 
-接下来自己尝试，但是发现：   
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/revisionHistoryLimit_yaml.png)
+
+
+
+## 接下来自己尝试，但是发现：   
 
 有些record不见了是因为使用了 deployment undo命令    
 
@@ -45,6 +49,8 @@ https://github.com/kubernetes/kubernetes/blob/master/pkg/kubectl/history.go#L112
 
 ```
 
+
+##  追问：  
 
 追问：  
 如果这条记录没有了 我uodo的时候还能跳回到这个版本么？   
