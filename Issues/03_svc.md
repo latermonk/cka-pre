@@ -28,3 +28,6 @@ ClusterIP 主要用于集群内部的访问，当集群内部访问 service 的�
 
 ##  Ingress     
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/04_Ingress.png)
+
+
+------
