@@ -15,7 +15,7 @@ ClusterIP 主要用于集群内部的访问，当集群内部访问 service 的�
 ## NodePort   
 这种方式很好理解， 就是在 每台宿主机上开放相应的端口，然后访问的时候，由主机转给相应的 service 
 
-![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/02_NodePort.png
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/02_NodePort.png)
 
 
 ## Loadbalencer
