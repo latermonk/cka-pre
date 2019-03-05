@@ -8,6 +8,8 @@ svc的集中实现方式：
 ClusterIP 主要用于集群内部的访问，当集群内部访问 service 的时候，可以通过 cluster : port 访问。
 如果需要集群外部访问，需要用 kube-proxy 进行端口映射。    
 
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/cluster_ip_internal.png)
+
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/01_ClusterIP.png)
 
 
