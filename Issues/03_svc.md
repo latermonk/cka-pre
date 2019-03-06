@@ -3,6 +3,10 @@
 
 svc的集中实现方式：    
 
+![三种方式](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/svc-types.png)
+
+
+
 ## ClusterIP   
 
 ClusterIP 主要用于集群内部的访问，当集群内部访问 service 的时候，可以通过 cluster : port 访问。
