@@ -8,3 +8,12 @@
 
 
 ## exam preparation
+
+
+
+#  注意  
+##  几个硬功夫   
+
+###  YAML语法 
+###  k8s cluster 搭建  
+
