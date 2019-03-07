@@ -5,6 +5,7 @@
 
 
 ## Kubernetes The hardway   
+[Kubernetes The hardway ](https://github.com/latermonk/cka-pre/blob/master/Issues/05-k8s-the-hard-way.md   )
 
 
 ## exam preparation
