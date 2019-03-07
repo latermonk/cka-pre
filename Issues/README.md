@@ -15,6 +15,10 @@
 ## Controllers   
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/Pod-Controller.png) 
 
+## Deployment
+
+!()[https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/Deployment.png]
+
 ## Services   
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/Services-Detail.png)
 
