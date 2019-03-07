@@ -12,7 +12,11 @@
 
 # Concept   
 
+## Controllers   
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/Pod-Controller.png) 
+
+## Services   
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/Services-Detail.png)
 
 
 #  注意  
