@@ -1,6 +1,6 @@
 #  RoadMap
 
-
+# 心中有Concept,能做cluster setup,会搞task ,就能pass exam .
 ## k8s.io SetUP | Concept | Task   
 
 [SetUP](https://kubernetes.io/docs/setup/)   
