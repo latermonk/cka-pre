@@ -1,0 +1,6 @@
+```
+kubectl explain xxx    
+
+```    
+
+
