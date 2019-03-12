@@ -8,5 +8,5 @@
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/emptyDir.png)
 
 ## 2
-![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/emptyDir.png)
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/empty-pic.png)
 
