@@ -14,5 +14,11 @@
 
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/pv-pvc-pod.png)
 
+### storage-Class
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/storage-class.png)
+
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/storage-class-2.png)
+
+
 
 
