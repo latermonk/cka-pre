@@ -1,5 +1,12 @@
 # cka-pre
 
+# VIP
+
+https://github.com/dgkanatsios/CKAD-exercises 
+
+https://github.com/twajr/ckad-prep-notes   
+
+
 ## resource pod template 
 https://cheatsheet.dennyzhang.com/kubernetes-yaml-templates   
 
