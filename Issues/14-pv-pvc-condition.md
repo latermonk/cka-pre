@@ -10,5 +10,9 @@
 
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/pv-pvc-condition.png)
 
+### 定义了之后就可以使用了
+
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/pv-pvc-pod.png)
+
 
 
