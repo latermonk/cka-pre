@@ -18,6 +18,11 @@
 
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/storage-class.png)
 
+
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/k8s-storage5.png)
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/k8s-storage6.png)
+
+### == 
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/storage-class-2.png)  
 
 
