@@ -15,6 +15,17 @@ Error from server: Get https://10.254.21.3:10250/containerLogs/default/busybox/b
 ```
 
 
+### daemon重启命令
+
+```
+systemctl daemon-reload
+systemctl restart kubelet
+
+
+```
+
+
+
 ### 组件状态查询命令
 
 ```
