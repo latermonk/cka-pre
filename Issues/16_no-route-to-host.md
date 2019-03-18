@@ -34,6 +34,17 @@ kubectl get componentstatus
 ```
 
 
+###  swap命令
+
+```
+cat /proc/swaps
+swapoff -a 
+
+
+
+```
+
+
 ### 参考：
 https://kubernetes.io/docs/setup/independent/install-kubeadm/
 
