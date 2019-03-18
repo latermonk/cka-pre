@@ -38,6 +38,8 @@ kubectl get componentstatus
 
 ```
 cat /proc/swaps
+
+
 swapoff -a 
 
 
