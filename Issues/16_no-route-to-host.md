@@ -15,6 +15,13 @@ Error from server: Get https://10.254.21.3:10250/containerLogs/default/busybox/b
 ```
 
 
+### 组件状态查询命令
+
+```
+kubectl get componentstatus  
+
+```
+
 
 ### 参考：
 https://kubernetes.io/docs/setup/independent/install-kubeadm/
