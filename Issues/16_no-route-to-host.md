@@ -60,8 +60,8 @@ swapoff -a
 
 
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/issue1601-normal.png)
-![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/issue1601-normal.png)
-![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/issue1601-normal.png)
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/issue1602-abnormal.png)
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/issue1603-kubelet-not-start-dueto-swap.png)
 
 
 ### 参考：
