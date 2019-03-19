@@ -54,6 +54,16 @@ swapoff -a
 ```
 
 
+####  排除故障   
+
+##### 因为swap分区没有关闭 导致kubelet无法正常启动 
+
+
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/issue1601-normal.png)
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/issue1601-normal.png)
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/issue1601-normal.png)
+
+
 ### 参考：
 https://kubernetes.io/docs/setup/independent/install-kubeadm/
 
