@@ -1,5 +1,9 @@
 # cka-pre
 
+# 中文的手册指南
+https://jimmysong.io/kubernetes-handbook/
+
+
 # VIP
 
 https://github.com/dgkanatsios/CKAD-exercises 
