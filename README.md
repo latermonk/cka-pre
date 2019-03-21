@@ -1,5 +1,9 @@
 # cka-pre
 
+
+# install 
+https://medium.com/@zwischenzugs/learn-kubernetes-the-hard-way-the-easy-and-cheap-way-6f82b665ccd9
+
 # 中文的手册指南
 
 ## rootsong
