@@ -48,6 +48,10 @@ k api-resources
 
 https://github.com/latermonk/kind-for-cka
 
+# katacoda环境
+
+https://www.katacoda.com/courses/kubernetes  
+
 
 #  rancher搭建运行环境
 
