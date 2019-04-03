@@ -44,8 +44,8 @@ k describe po test-pd
 ```
 
 
- 
- 
+ ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/empty01.png)
+ ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/empty02.png)
 
 
 
