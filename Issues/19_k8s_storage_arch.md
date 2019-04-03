@@ -46,7 +46,11 @@ k describe po test-pd
  k exec -it test-pd -- /bin/sh 
 ```
 
+## 测试
+ ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/empty03.png)
 
+
+## 验证
  ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/empty01.png)
  ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/empty02.png)
 
