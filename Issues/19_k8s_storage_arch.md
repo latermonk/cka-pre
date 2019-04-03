@@ -10,6 +10,9 @@
 
 ### 创建带emptyDir的Pod
 
+#### YAML:
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/empty01.png)
+
 edir.yaml
 ```
 apiVersion: v1
