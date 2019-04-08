@@ -1,6 +1,9 @@
 # configMap的配置
 
 
+# 练习资料
+https://github.com/dgkanatsios/CKAD-exercises/blob/master/d.configuration.md
+
 
 
 # 参考资料
