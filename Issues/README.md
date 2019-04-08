@@ -27,6 +27,10 @@
 ![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/Services-Detail.png)
 
 
+## Storage01
+![](https://raw.githubusercontent.com/latermonk/cka-pre/master/Issues/images/Storage01.png)
+
+
 #  注意  
 ##  几个硬功夫   
 
