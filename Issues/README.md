@@ -4,7 +4,7 @@
 
 ## 巩固存储的概念和练习
 
-https://github.com/dgkanatsios/CKAD-exercises/blob/master/g.state.md
+https://github.com/dgkanatsios/CKAD-exercises/blob/master/g.state.md     
 https://github.com/dgkanatsios/CKAD-exercises/blob/master/d.configuration.md
 
 
