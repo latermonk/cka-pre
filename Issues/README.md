@@ -1,5 +1,13 @@
 #  RoadMap
 
+#  接下来的思路
+
+## 巩固存储的概念和练习
+## 完成stateful set Deamonset job & cronJob
+## 集群搭建和YAML练习
+
+
+
 # 心中有Concept,能做cluster setup,会搞task ,就能pass exam .
 ## k8s.io SetUP | Concept | Task   
 
