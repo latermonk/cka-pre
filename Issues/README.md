@@ -1,5 +1,16 @@
 #  RoadMap
 
+# 五一之后的思路
+
+## 尽快搭建环境 kind-cluster && kubeadm  
+
+## 练习：
+### binary method 搭建环境
+
+### 手写YAML文件
+
+
+
 #  接下来的思路
 
 ## 巩固存储的概念和练习
