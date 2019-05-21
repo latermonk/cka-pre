@@ -1,5 +1,10 @@
 # cka-pre
 
+# v
+https://github.com/ansilh/kubernetes-the-hardway-virtualbox
+
+
+
 
 # install 
 https://medium.com/@zwischenzugs/learn-kubernetes-the-hard-way-the-easy-and-cheap-way-6f82b665ccd9
