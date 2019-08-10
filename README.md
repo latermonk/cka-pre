@@ -1,5 +1,9 @@
 # cka-pre
 
+#  TODO 
+
+专门的攻克  volume \ service account \  几个专题     
+
 # v
 https://github.com/ansilh/kubernetes-the-hardway-virtualbox
 
